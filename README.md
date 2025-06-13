@@ -28,3 +28,26 @@ A simple and fun React-based dice game where the goal is to roll until all dice 
    ```bash
    git clone https://github.com/yourusername/tenzies-game.git
    cd tenzies-game 
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Start the development server:
+
+bash
+Copy
+Edit
+npm start
+Open http://localhost:5173/ in your browser to play.
+
+Usage
+Click the Roll button to roll all unheld dice.
+
+
+Click on individual dice to hold or release them.
+
+When all dice show the same number and are held, you win!
+
+Click New Game to restart.
