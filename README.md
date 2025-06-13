@@ -1,9 +1,6 @@
 # Tenzies-game
 A simple and fun React-based dice game where the goal is to roll until all dice show the same value. Click on dice to hold their value between rolls. When all dice are held and have the same number, you win and get a confetti celebration!
 
-## Demo
-
-(You can add a link to a live demo if you have one)
 
 ## Features
 
